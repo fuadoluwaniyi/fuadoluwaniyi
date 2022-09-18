@@ -4,6 +4,7 @@
 **fuadoluwaniyi/fuadoluwaniyi** is a ✨ _special_ ✨ repository because its `README.md` (fuadoluwaniyi) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on becoming a software engineer
 - 🌱 I’m currently learning c programming and python
@@ -11,11 +12,11 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with c programming and getting a job
 - 💬 Ask me about anything
 - 📫 How to reach me: fuadoluwaniyi@gmail.com
-- 😄 Pronouns: He and not Him 😂 
+- 😄 Pronouns: He and not Him 😂
 - ⚡ Fun fact: Hum, fuad is learning in a harsh environment dealing with a lot to keep up. not fun thou 😴
--->
 
 Hello World 😊 
+
 I'm Adeshina Fuad Oluwaniyi, A passionate self-taught frontend developer
 I'm currently on a year Software Engineering program @ALX * Harberton School.
 I am learning a lot from ALX and I love how collaboration and
